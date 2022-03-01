@@ -11,12 +11,12 @@ body{
 
 /* HEADER */
 .header{
-    height: 100px;
+    height: 80px;
     background-color:white;
 }
 
 #logo-img{
-    height: 80px;
+    height: 60px;
     vertical-align: middle;
     margin: .7em;
 }
@@ -51,7 +51,7 @@ body{
 }
 
 .button2{
-    margin: 15px 0px 10px 50px ;
+    margin: 15px 0px 10px 0px ;
     padding: 8px 0px;
     width: 130px;
     background-color: white;

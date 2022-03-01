@@ -109,18 +109,17 @@ ul{
 
 .evidenziatore{
     color: white;
-    background-color: #45abea;
     border-radius: 19px;
-    padding:5px 20px 5px 20px;
+    padding:10px 20px 10px 20px;
     font-size: 13px;
 }
 
-.evidenziatore2{
-    color: white;
+.uno{
+    background-color: #45abea;
+}
+
+.due{
     background-color: #9c72e4;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
 .uncheckmark {
@@ -128,44 +127,24 @@ ul{
     color: red;
 }
 
-.evidenziatore3{
-    color: white;
+.tre{
     background-color: #64c0a9;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
-.evidenziatore4{
-    color: white;
+.quattro{
     background-color: #f29e33;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
-.evidenziatore5{
-    color: white;
+.cinque{
     background-color: #d863a1;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
-.evidenziatore6{
-    color: white;
+.sei{
     background-color: #b0c925;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
-.evidenziatore7{
-    color: white;
+.sette{
     background-color: #b0c925;
-    border-radius: 19px;
-    padding:5px 20px 5px 20px;
-    font-size: 13px;
 }
 
 ul li

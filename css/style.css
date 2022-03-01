@@ -31,7 +31,7 @@ body{
 #nav{
     background-color: white;
     width: 80%;
-    margin: 20px auto;
+    margin: 20% 10% 0% 10%;
     border: 2px;
     border-radius: 8px;
     border-bottom-left-radius: 2px;
@@ -51,7 +51,7 @@ body{
 }
 
 .button2{
-    margin: 15px 0px 10px 5px;
+    margin: 15px 0px 10px 50px ;
     padding: 8px 0px;
     width: 130px;
     background-color: white;
@@ -60,4 +60,116 @@ body{
     color:#c5cbd0;
     font-size: 17px;
 }
+
+/* MAIN */
+#main{
+    background-color: white;
+    width: 80%;
+    margin: 0.2% 10% 10% 10%;
+    border: 2px;
+    border-radius: 8px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    /* margin-top: 50px; */
+}
+
+.elenco-margin{
+    padding-top:40px;
+    margin-left: 68px;
+}
+
+ul{
+    list-style:none;
+}
+
+.simbolo{
+    font-size: 15px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.checkmark, .uncheckmark{
+    font-size: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin-right:20px;
+}
+
+.checkmark {
+    border: 2px solid green;
+    color: green;
+}
+.size-li{
+    font-size: 20px;
+}
+
+.evidenziatore{
+    color: white;
+    background-color: #45abea;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.evidenziatore2{
+    color: white;
+    background-color: #9c72e4;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.uncheckmark {
+    border: 2px solid red;
+    color: red;
+}
+
+.evidenziatore3{
+    color: white;
+    background-color: #64c0a9;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.evidenziatore4{
+    color: white;
+    background-color: #f29e33;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.evidenziatore5{
+    color: white;
+    background-color: #d863a1;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.evidenziatore6{
+    color: white;
+    background-color: #b0c925;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+.evidenziatore7{
+    color: white;
+    background-color: #b0c925;
+    border-radius: 19px;
+    padding:5px 20px 5px 20px;
+    font-size: 13px;
+}
+
+
+
+
+
 
